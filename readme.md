@@ -30,4 +30,6 @@ To look at the logs type `docker-machine logs` and to cleanup type `docker-machi
 
 I hope you agree, ElasticSearch has a pretty incredible discovery module making it very easy to setup a cluster.
 
+The discovery module is awesome, but maybe I must do more study on the subject to conclude the overall cluster design. [Viktor Klang](https://twitter.com/viktorklang) pointed me these two [blog](https://aphyr.com/posts/317-call-me-maybe-elasticsearch) posts, one that reviews [ElasticSearch](https://www.elastic.co) 1.1.0 and [a follow blog post](https://aphyr.com/posts/323-call-me-maybe-elasticsearch-1-5-0) that reviews [ElasticSearch](https://www.elastic.co) 1.5.0; both need a study on its own.
+
 Have fun!
