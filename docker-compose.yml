@@ -1,0 +1,5 @@
+es:
+  image: elasticsearch:1.6
+  ports:
+    - 9200
+    - 9300
